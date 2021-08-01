@@ -1,6 +1,8 @@
 # Sorting_Visualizer
 Developed this project for JavaScript learning process
 
+LIVE DEMO:https://rawcdn.githack.com/abhishek970/Sorting_Visualizer/f8d0c3059e1ef2c9de39e471ce2be148948be316/index.html
+
 Tools used:
 1. HTML
 2. CSS
